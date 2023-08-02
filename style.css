@@ -1,3 +1,4 @@
+
 @function gray($color){
   @return rgb($color, $color, $color);
 }
